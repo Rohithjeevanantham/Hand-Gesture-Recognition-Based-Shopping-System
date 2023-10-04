@@ -10,7 +10,6 @@ Copy code
 Follow these steps to download and run the code:
 
 1. Clone the repository to your local machine:
-
    ```
    git clone https://github.com/Rohithjeevanantham/Hand-Gesture-Recognition-Based-Shopping-System.git
    ```
@@ -48,9 +47,13 @@ To run the program, ensure you have the following minimum requirements:
 
 Python 3.x
 OpenCV library installed
+
 Mediapipe library installed
+
 NumPy library installed
+
 Matplotlib library installed
+
 Webcam or camera access
 
 ## Contributors
