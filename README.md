@@ -35,9 +35,28 @@ Other standard Python libraries.
 
 ## Algorithms
 
- YOLOv3 (You Only Look Once): For real-time object detection.
- 
- MediaPipe: For hand landmark detection and tracking.
+The Hand Gesture Recognition-Based Shopping System incorporates the following algorithms and techniques:
+
+**YOLOv3 (You Only Look Once, version 3):**
+- Detects objects in real-time by dividing images into a grid and predicting bounding boxes and class probabilities.
+
+**MediaPipe Hand Landmark Detection:**
+- Tracks hand landmarks (fingertips, knuckles) for recognizing hand gestures and interactions.
+
+**OpenCV (Open Source Computer Vision Library):**
+- Handles video capture, frame processing, drawing, and user interface for visualizing results.
+
+**Matplotlib:**
+- Used to create a plot displaying the trajectory of picked-up objects.
+
+**Action Logging:**
+- Records timestamps and actions to files for later analysis of user interactions.
+
+**Gestures Recognition:**
+- Analyzes hand landmark positions to identify specific gestures, such as object pickup and placement.
+
+These algorithms work together to provide a seamless and interactive shopping experience based on hand gestures and object recognition.
+
 
 ## Pre-Trained Models
    ```
