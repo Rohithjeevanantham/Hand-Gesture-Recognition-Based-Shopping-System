@@ -15,21 +15,16 @@ Follow these steps to download and run the code:
    git clone https://github.com/Rohithjeevanantham/Hand-Gesture-Recognition-Based-Shopping-System.git
 Navigate to the project directory:
 
-bash
-Copy code
+# Navigate to the project directory
 cd Hand-Gesture-Recognition-Based-Shopping-System
-Install the required libraries using pip:
 
-bash
-Copy code
+# Install the required libraries using pip
 pip install -r requirements.txt
-Run the main Python script:
 
-bash
-Copy code
+# Run the main Python script
 python hand_gesture_shopping.py
-Libraries Used
-This project utilizes the following libraries and frameworks:
+
+##This project utilizes the following libraries and frameworks:
 
 OpenCV: For object detection using YOLOv3.
 Mediapipe: For hand landmark detection and tracking.
