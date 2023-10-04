@@ -2,8 +2,6 @@
 ## Overview
 
 The Hand Gesture Recognition-Based Shopping System is a modern and interactive shopping solution that uses cutting-edge technology to enhance the shopping experience for customers. This comprehensive documentation explains the project's objectives, components, functionality, and how it scales efficiently to meet the needs of large retail stores.
-markdown
-Copy code
 
 ## How to Download and Run
 
@@ -36,11 +34,9 @@ Matplotlib: For displaying object trajectories.
 Other standard Python libraries.
 
 ## Algorithms
-The project incorporates the following algorithms and techniques:
 
-### YOLOv3 (You Only Look Once): For real-time object detection.
-### MediaPipe: For hand landmark detection and tracking.
-Custom gesture recognition logic based on landmark distances.
+ YOLOv3 (You Only Look Once): For real-time object detection.
+ MediaPipe: For hand landmark detection and tracking.
 
 ## Pre-Trained Models
    ```
