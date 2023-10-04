@@ -36,6 +36,7 @@ Other standard Python libraries.
 ## Algorithms
 
  YOLOv3 (You Only Look Once): For real-time object detection.
+ 
  MediaPipe: For hand landmark detection and tracking.
 
 ## Pre-Trained Models
