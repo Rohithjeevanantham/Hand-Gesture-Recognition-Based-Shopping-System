@@ -42,6 +42,12 @@ The project incorporates the following algorithms and techniques:
 ### MediaPipe: For hand landmark detection and tracking.
 Custom gesture recognition logic based on landmark distances.
 
+## Pre-Trained Models
+   ```
+   https://drive.google.com/drive/folders/1n14wF70bXs4ru2IoJGj-X8HNt6O7RNkQ
+   ```
+   The link to the YOLOv3 weights, YOLOv3 cfg, and COCO names files. To integrate these files into your project, you can download them and place them in the appropriate directory.
+
 ## Minimum Requirements
 To run the program, ensure you have the following minimum requirements:
 
